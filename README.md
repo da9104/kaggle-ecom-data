@@ -45,6 +45,13 @@ original source: [kaggle - Brazilian E-Commerce Analysis](https://www.kaggle.com
 
 ***
 
+<img width="628" height="467" alt="image" src="https://github.com/user-attachments/assets/21636e40-270a-4080-b5ff-f8e0bbb54467" />
+
+<img width="607" height="618" alt="image" src="https://github.com/user-attachments/assets/792649de-c8d0-4597-9293-49f961f439b8" />
+
+<img width="594" height="458" alt="image" src="https://github.com/user-attachments/assets/07aa7d4e-84a0-4781-ae8d-68ee61bb30a3" />
+
+
 ## Key Insights  
 
 1. 데이터셋에 포함된 대부분의 주문은 성공적으로 배송되었으며, 이는 주문 이행 프로세스가 신뢰할 수 있음을 보여줍니다. 
@@ -56,6 +63,7 @@ original source: [kaggle - Brazilian E-Commerce Analysis](https://www.kaggle.com
 ***
 
 ## Conclusion  
+
 결론
 
 브라질 전자상거래 데이터셋 분석을 통해 고객 행동, 결제 선호도, 배송 성과에서 중요한 패턴을 확인할 수 있었습니다. 
